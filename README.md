@@ -1,13 +1,13 @@
 This is code to perform Poisson regression for Spatial Transcriptomics data as described in [this publication](https://doi.org/10.1038/s41467-018-04724-5):
 
-Spatial maps of prostate cancer transcriptomes reveal an unexplored landscape of heterogeneity
-Emelie Berglund, Jonas Maaskola, Niklas Schultz, Stefanie Friedrich, Maja Marklund, Joseph Bergenstråhle, Firas Tarish, Anna Tanoglidi, Sanja Vickovic, Ludvig Larsson, Fredrik Salmén, Christoph Ogris, Karolina Wallenborg, Jens Lagergren, Patrik Ståhl, Erik Sonnhammer, Thomas Helleday & Joakim Lundeberg
-Nature Communicationsvolume 9, Article number: 2419 (2018)
+Spatial maps of prostate cancer transcriptomes reveal an unexplored landscape of heterogeneity<br>
+Emelie Berglund, Jonas Maaskola, Niklas Schultz, Stefanie Friedrich, Maja Marklund, Joseph Bergenstråhle, Firas Tarish, Anna Tanoglidi, Sanja Vickovic, Ludvig Larsson, Fredrik Salmén, Christoph Ogris, Karolina Wallenborg, Jens Lagergren, Patrik Ståhl, Erik Sonnhammer, Thomas Helleday & Joakim Lundeberg<br>
+Nature Communications, volume 9, Article number: 2419 (2018)
 
 
-Whereas you can find [here](https://github.com/SpatialTranscriptomicsResearch/std-nb) the code for the Negative Binomial regression model described in
-Charting Tissue Expression Anatomy by Spatial Transcriptome Deconvolution
-Jonas Maaskola, Ludvig Bergenstråhle, Aleksandra Jurek, José Fernández Navarro, Jens Lagergren, Joakim Lundeberg
+Whereas you can find [here](https://github.com/SpatialTranscriptomicsResearch/std-nb) the code for the Negative Binomial regression model described in<br>
+Charting Tissue Expression Anatomy by Spatial Transcriptome Deconvolution<br>
+Jonas Maaskola, Ludvig Bergenstråhle, Aleksandra Jurek, José Fernández Navarro, Jens Lagergren, Joakim Lundeberg<br>
 doi: https://doi.org/10.1101/362624
 
 Dependencies
